@@ -17,6 +17,7 @@ public class Percobaan2_23 {
         System.out.print("Pangkat: ");
         int pangkat = sc.nextInt();
 
+        System.out.print("Deret perhitungannya: ");
         int hasil = hitungPangkat(bilangan, pangkat);
         System.out.printf(" = %d", hasil);
     }
