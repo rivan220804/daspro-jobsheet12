@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PenjumlahanRekursif {
+public class PenjumlahanRekursif23 {
 
     static int penjumlahanRekursif(int f) {
         if (f == 0) {

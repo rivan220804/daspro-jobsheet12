@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class CekPrimaRekursif23 {
 
     static int cekPrimaRekursif(int n, int i) {
